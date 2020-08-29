@@ -1,0 +1,4 @@
+%{
+  "decimal": {:hex, :decimal, "1.8.1", "a4ef3f5f3428bdbc0d35374029ffcf4ede8533536fa79896dd450168d9acdf3c", [:mix], [], "hexpm", "3cb154b00225ac687f6cbd4acc4b7960027c757a5152b369923ead9ddbca7aec"},
+  "stream_gzip": {:hex, :stream_gzip, "0.4.1", "d5f611b3fa8f5c9d928db4c8446edb7e22bebdf38d9914b4017a6fff44887b26", [:mix], [], "hexpm", "343dee3cc30dc78562bb524e8ea802a13d6377fc6ef1c05ac4c9d9fb1f58044b"},
+}
